@@ -1,4 +1,4 @@
-# colorpicker
+# colorpicker-js
 
 ### Usage
 ```
